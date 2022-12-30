@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/2D Simple Educational Puzzle Match - Drag & Drop Mobile Game KIT/Scenes/Levels/Level03.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

@@ -1,0 +1,26 @@
+--------------------------
+BUILD SETTINGS THE SCENES
+--------------------------
+
+The first time you import the package, all the levels, menu and level selection menu are NOT in the build settings.
+
+If you first try out the scenes and it gives you the error '1 or any other number couldn't be loaded because it has not been added to 
+the build settings' then you have to go to the FILE > BUILD SETTINGS and click open up the GameMenu scene.
+
+Click on the 'Add Open Scenes' button and it should add the GameMenu scene in the BUILD SETTINGS.
+
+
+After you add the GameMenu scene then add the LevelSelectionMenu scene and add the other levels from 1 to 5.
+
+They should be like this:
+
+Game Menu = Scene 0
+Level Selection Menu = Scene 1
+Level 1 = Scene 2
+Level 2 = Scene 3
+Level 3 = Scene 4
+Level 4 = Scene 5
+Level 5 = Scene 6
+
+
+Once that is done, test out the package now and it should be working perfectly.

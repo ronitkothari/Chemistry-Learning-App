@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2D Simple Educational Puzzle Match - Drag & Drop Mobile Game KIT/Scenes/GameMenu.unity
+    guid: fdb63e6181387cc4c9bd51681fde4ac2
+  - enabled: 1
+    path: Assets/2D Simple Educational Puzzle Match - Drag & Drop Mobile Game KIT/Scenes/LevelSelectionMenu.unity
+    guid: efde9d42ce99703419d10c1d23096692
+  - enabled: 1
+    path: Assets/2D Simple Educational Puzzle Match - Drag & Drop Mobile Game KIT/Scenes/Levels/Level01.unity
+    guid: bbcc341d52e8a2d4f8b28e57209fc6ca
+  - enabled: 1
+    path: Assets/2D Simple Educational Puzzle Match - Drag & Drop Mobile Game KIT/Scenes/Levels/Level02.unity
+    guid: 3ecb453edaee5b64391124f420641124
+  - enabled: 1
+    path: Assets/2D Simple Educational Puzzle Match - Drag & Drop Mobile Game KIT/Scenes/Levels/Level03.unity
+    guid: 9ffcd567758b5684e9e95d8b199c2f05
+  - enabled: 1
+    path: Assets/2D Simple Educational Puzzle Match - Drag & Drop Mobile Game KIT/Scenes/Levels/Level04.unity
+    guid: 1fe661f6fd5b626459481cd24ca1a7db
+  - enabled: 1
+    path: Assets/2D Simple Educational Puzzle Match - Drag & Drop Mobile Game KIT/Scenes/Levels/Level05.unity
+    guid: 6891c8023f169b84985dc536f4164ed7
+  m_configObjects: {}
